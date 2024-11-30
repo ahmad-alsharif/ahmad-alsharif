@@ -18,8 +18,6 @@ I am committed to continuous improvement and excellence, approaching each challe
 
 » *Data Modeling*
 
-» *Created my Portfolio Site with HTML and CSS*
-
 » *Data Visualization with Power BI and Tableau*
 
 » *Predictive analysis*
