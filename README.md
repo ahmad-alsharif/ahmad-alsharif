@@ -1,4 +1,5 @@
-## Hi👋 I'm Ahmad Alsharif, 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=1000&letterSpacing=small&duration=7000&pause=1000&color=F7F6F4&repeat=false&width=435&lines=Hi%2C+I'm+Ahmad+Alsharif)](https://git.io/typing-svg)
+
 A data enthusiast with a Bachelor’s in Business Information Technology from Cape Breton University (CBU) and currently pursuing a Post-Graduate Diploma in Data Analytics at Southern Alberta Institute of Technology (SAIT).
 
 I specialize in data analysis, visualization, ETL (Extract, Transform, and Load), and programming languages like SQL, R, and Python. My career and continual learning has equipped me with diverse skills in managing data, creating reports, and developing dashboards to support strategic business decisions. Additionally, my experience in account management and operations has honed my ability to optimize processes and manage client relationships effectively.
