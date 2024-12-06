@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=1000&letterSpacing=small&duration=7000&pause=5000&color=F7F6F4&width=435&lines=Hi%2C+I'm+Ahmad+Alsharif)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=1000&letterSpacing=small&duration=7000&pause=1000&color=F7F6F4&width=435&lines=Hi%2C+I'm+Ahmad+Alsharif)](https://git.io/typing-svg)
 
 A data enthusiast with a Bachelor’s in Business Information Technology from Cape Breton University (CBU) and currently pursuing a Post-Graduate Diploma in Data Analytics at Southern Alberta Institute of Technology (SAIT).
 
